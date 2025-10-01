@@ -18,7 +18,7 @@ GPU renderer with a suite of graphical enhancements.
 - Search for "117 HD"
 - Click Install
 
-![Installation intruction gif](https://user-images.githubusercontent.com/72366279/223843005-6175c825-7f35-4bcb-84eb-882321a017f7.gif)
+![Installation instructions gif](https://user-images.githubusercontent.com/72366279/223843005-6175c825-7f35-4bcb-84eb-882321a017f7.gif)
 
 # Links
 ![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png)
